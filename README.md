@@ -65,6 +65,8 @@ from low to high levels in the dependency graph)
 The following commands set up a local test network and run some transfers between the
 microchains owned by a single wallet.
 
+To update later...
+
 ```bash
 # Make sure to compile the Linera binaries and add them in the $PATH.
 # cargo build -p linera-storage-service -p linera-service --bins --features storage-service
